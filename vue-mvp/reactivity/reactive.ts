@@ -1,0 +1,4 @@
+
+function reactive(target: Object) {
+
+}
